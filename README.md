@@ -1,2 +1,2 @@
 # Calc
-[Link to calculator]()
+[Link to calculator](https://krialm.github.io/Calc/)
