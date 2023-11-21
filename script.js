@@ -49,6 +49,11 @@ function calculate() {
     const num1 = parseFloat(previousInput);
     const num2 = parseFloat(currentInput);
 
+    console.log(result)
+    console.log(num1)
+    console.log(num2)
+
+
     switch (operator) {
         case '+':
             result = num1 + num2;
